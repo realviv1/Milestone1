@@ -1,0 +1,25 @@
+SECTION B
+
+
+B5. What is the difference between cloud infrastructure and on-premises infrastructure?
+Ans: Cloud Infrastucture is hosted by a cloud procider, and elastic IT capabilities are delivered by buying or renting Internet services.
+On-Premises Infrastructure is hostel in the office premises and is maintaned locally in the office. 
+
+
+B6. What is an Azure subscription?
+Ans: Azure subscription provides you to manage your resources like cosmosDB, etc. It helps to access the resources and information about the subscription. 
+
+
+
+B7. What is an Azure Resource Group?
+Ans: A resource group is a container for related azure resources. 
+
+
+
+B8. Arrange these in the correct hierarchy: Resource, Subscription, Resource Group.
+Ans: Subscription -> Resource Group -> Resource
+
+
+
+B9. Why might a company place related Azure resources in the same Resource Group?
+Ans: To manage the related resources together in a resource group, it helps with the accessebility, cost and deployments. 
